@@ -4,6 +4,7 @@ from looping import happy_new_year, square_integers, fizzbuzz
 
 import io
 import sys
+import unittest
 
 class TestHappyNewYear:
     '''happy_new_year() in looping.py'''
